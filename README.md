@@ -10,11 +10,6 @@ Home-grown CLIs kept after the owner’s “prefer an existing tool if it’s be
 | Sales | `lead-inbox` | [sales-lead-inbox](https://github.com/spicefiendd/sales-lead-inbox) |
 | grunt | `obit-watch` | [obit-watch](https://github.com/spicefiendd/obit-watch) |
 | Streamer Buddy | `shorts-montage` | [shorts-montage](https://github.com/spicefiendd/shorts-montage) |
-
-## Removed / void
-
-| Agent | Tool | Notes |
-|-------|------|-------|
-| Email | `yahoo-mail-cli` | Repo removed after alternatives / cleanup |
+| Email | `yahoo-mail-cli` (Yahoo Mail marketing cleanup, dry-run by default) | [yahoo-mail-cli](https://github.com/spicefiendd/yahoo-mail-cli) |
 
 Biweekly maintenance: Tool Maintainers rooms (Code as point), 1st & 15th 10:00 AM ET.
