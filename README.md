@@ -8,7 +8,6 @@ Home-grown CLIs kept after the owner’s “prefer an existing tool if it’s be
 | Code | `handoff` (CoS status JSONL) | [agent-handoffs](https://github.com/spicefiendd/agent-handoffs) |
 | Code + 𝕏 desk | X desk scripts (`x-trend-why`, trending, analytics, digest) | [x-scripts](https://github.com/spicefiendd/x-scripts) |
 | Sales | `lead-inbox` | [sales-lead-inbox](https://github.com/spicefiendd/sales-lead-inbox) |
-| Legal research | `mycase-pull` | [mycase-pull](https://github.com/spicefiendd/mycase-pull) |
 | grunt | `obit-watch` | [obit-watch](https://github.com/spicefiendd/obit-watch) |
 | Streamer Buddy | `shorts-montage` | [shorts-montage](https://github.com/spicefiendd/shorts-montage) |
 
